@@ -77,8 +77,8 @@ That's hardly a revelation to any Python developers reading this.
 As noted already, Python is venturing not only in to web front end development with PyScript, but becoming a viable option for cross platform desktop and mobile with BeeWare.
 Maybe it seems Python is a bit late to the game, JavaScript has existed for decades, dominates the web frontend, and, with electron, is a viable option for the desktop.
 
-PyScript and BeeWare are not trying to break in to an industry with mature tooling and libraries and frameworks used by most developers.
-They are entering domains in flux with what appears to be infinite patience for ditching older ideas for new possibilities.
+PyScript and BeeWare are not trying to break in to an industry with an agreed to set of mature tooling, libraries, and frameworks used and loved by the majority of developers.
+They are entering domains in constant churn with what appears to be infinite patience for migrating from older ideas for new possibilities.
 
 ### Wrap It Up
 
